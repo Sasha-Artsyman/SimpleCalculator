@@ -1,0 +1,2 @@
+# SimpleCalculator
+Simple arithmetic operations
